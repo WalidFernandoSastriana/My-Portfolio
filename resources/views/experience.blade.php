@@ -5,10 +5,10 @@
 @section('content')
 <div class="experience-grid">
     <div class="experience-item">
-        <h3>Job Title 1</h3>
-        <p>Company Name</p>
-        <p>Duration: Jan 2020 - Dec 2021</p>
-        <p>Description of the job and responsibilities.</p>
+        <h3>Junior Aircraft technician</h3>
+        <p>PT Garuda Mintenance Facility AeroAsia Tbk.</p>
+        <p>Duration: Jan 2020 - Mar 2020</p>
+        <p>Internship......</p>
     </div>
     <div class="experience-item">
         <h3>Job Title 2</h3>
