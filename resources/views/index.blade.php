@@ -19,7 +19,7 @@
 
     .header {
       overflow: hidden;
-      background-color: DodgerBlue;
+      background-color: teal;
       padding: 20px 10px;
     }
 
@@ -61,7 +61,7 @@
     }
 
     footer {
-      background-color: DodgerBlue;
+      background-color: teal;
       padding: 10px;
       text-align: center;
       color: black;
